@@ -1,0 +1,5 @@
+1. 安装nodejs
+2. 命令行中运行node -v
+3. 设置私有库地址，命令行中npm config set registry=http://10.10.15.138:8081/nexus/repository/npm-all/
+3. 在模版工程中安装依赖包npm install
+4. 启动项目npm run dev
